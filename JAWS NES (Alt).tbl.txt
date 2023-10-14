@@ -1,3 +1,5 @@
+# JAWS NES HEX TABLE
+
 00= 
 3B=-
 60=0
